@@ -3,10 +3,8 @@
 
 """
     @Time    : 17/9/14 下午3:56
-    @Author  : 孙玉强
-    @Mail    : <sunyuqiang@kanzhun.com>
     @File    : config.py
-    @Software: PyCharm
+
 """
 
 from __future__ import (absolute_import, unicode_literals)
